@@ -41,7 +41,7 @@
    <repository>
      <id>github</id>
      <name>GitHub Nida A P Apache Maven Packages</name>
-     <url>https://maven.pkg.github.com/Nida A P/Demo_Pipeline</url>
+     <url>https://maven.pkg.github.com/dk12345z/Demo_Pipeline</url>
    </repository>
 </distributionManagement>
 </project>
